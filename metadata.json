@@ -1,0 +1,6 @@
+{
+  "name": "RST Electronics ERP & Telecom Suite",
+  "description": "Multi-language (English, Bengali, Arabic) live e-commerce and enterprise ERP system with real-time cloud database, Oman Telecom POS, barcode/IMEI scanner, Gmail notifications, and Gemini AI insights.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
